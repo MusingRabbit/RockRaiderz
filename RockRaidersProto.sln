@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockRaidersProto", "RockRaidersProto\RockRaidersProto.csproj", "{4A4286AC-E3F8-4579-9628-C4B5DCF6847C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockRaiders", "RockRaidersLegacy\RockRaiders.csproj", "{04FE6927-C379-4F70-9421-D13ECD5C54F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A4286AC-E3F8-4579-9628-C4B5DCF6847C}.Debug|x86.ActiveCfg = Debug|x86
+		{4A4286AC-E3F8-4579-9628-C4B5DCF6847C}.Debug|x86.Build.0 = Debug|x86
+		{4A4286AC-E3F8-4579-9628-C4B5DCF6847C}.Release|x86.ActiveCfg = Release|x86
+		{4A4286AC-E3F8-4579-9628-C4B5DCF6847C}.Release|x86.Build.0 = Release|x86
+		{04FE6927-C379-4F70-9421-D13ECD5C54F0}.Debug|x86.ActiveCfg = Debug|x86
+		{04FE6927-C379-4F70-9421-D13ECD5C54F0}.Debug|x86.Build.0 = Debug|x86
+		{04FE6927-C379-4F70-9421-D13ECD5C54F0}.Release|x86.ActiveCfg = Release|x86
+		{04FE6927-C379-4F70-9421-D13ECD5C54F0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
